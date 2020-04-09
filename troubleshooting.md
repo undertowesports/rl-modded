@@ -1,5 +1,5 @@
 # Troubleshooting
-## Joining Matches:
+## Joining Matches
 ### Content Mismatch
 This means either:
 * someone has the wrong workshop map

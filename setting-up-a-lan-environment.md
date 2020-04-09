@@ -6,7 +6,7 @@
 5. Right click ZeroTier One, click Properties, double click Internet Protocol Version 4 (TCP/IPv4) (the name, not checkbox), click Advanced, uncheck Automatic metric, enter `1` for Interface metric. *You need to do this everytime ZeroTier One is launched, unfortunately.*
 6. [Download Workshop Textures](https://github.com/undertowesports/rl-modded/blob/master/Workshop-textures.zip).
 7. Go to your Steam Library, right click on Rocket League, select Properties, select Local Files and then select Browse Local Files...
-8. Once your download is over, unzip it and place the files (the files only, not the folder itself) into **TAGame/CookedPCConsole**.
+8. Once your download is over, unzip it and place the files (the files only, not the folder itself) into `TAGame/CookedPCConsole`.
 9. [Download BakkesMod](https://bakkesmod.com/download.php) and install it.
 10. Go to [RocketPlugin on BakkesPlugins](https://bakkesplugins.com/plugins/view/26) and click Install with BakkesMod.
 

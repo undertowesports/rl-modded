@@ -1,4 +1,4 @@
-# Joining Matches:
+# Joining Matches
 1. Launch ZeroTier.
 2. Open a run window using `Windows + R`, type `ncpa.cpl` and press enter.
 3. Right click ZeroTier One, click Properties, double click Internet Protocol Version 4 (TCP/IPv4) (the name, not checkbox), click Advanced, uncheck Automatic metric, enter `1` for Interface metric. *You need to do this everytime ZeroTier One is launched, unfortunately.*

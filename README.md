@@ -1,4 +1,4 @@
-# Rocket League Modde Guides
+# Rocket League Modded Guides
 This repository contains all the information needed to setup modded Rocket League.
 
 * First, [setup the LAN Environment](/setting-up-a-lan-environment.md)
